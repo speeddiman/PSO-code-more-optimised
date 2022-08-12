@@ -1,0 +1,6 @@
+#GMS MODFLOW Simulation
+#03 March 2020
+FREE
+HDF5 1.0 -1 "modelain2.0.h5" "Arrays/ibound1" 1 0 19352
+-999.0
+HDF5 1.0 -1 "modelain2.0.h5" "Arrays/StartHead1" 1 0 19352
